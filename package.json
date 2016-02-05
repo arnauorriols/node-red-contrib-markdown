@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "Parse Markdown to HTML",
   "keywords": [
-    "NodeRED",
+    "node-red",
     "markdown"
   ],
   "author": "Arnau Orriols",
